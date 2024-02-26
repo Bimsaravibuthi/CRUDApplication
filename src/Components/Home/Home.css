@@ -1,0 +1,20 @@
+.welcome-body{
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(20deg, #865ed4, #ffffff);
+    color: #4d20a5;
+    text-align: center;
+    height: 87.7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
